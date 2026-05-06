@@ -65,7 +65,7 @@ O projeto permite realizar operações matemáticas básicas através de uma int
 ```bash
 📦 calculadora-javascript
  ┣ 📂 assets
- ┃ ┗ 📜 demo.gif
+ ┃ ┗ 📜 calcteste.gif
  ┣ 📂 scripts
  ┃ ┗ 📜 script.js
  ┣ 📜 index.html
@@ -80,21 +80,11 @@ O projeto permite realizar operações matemáticas básicas através de uma int
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/lucasescouto-ux/Projeto-Calculadora.git
 
-# Acesse a pasta do projeto
-cd SEU-REPOSITORIO
 ```
 
 Depois, abra o arquivo `index.html` no navegador.
-
----
-
-## Deploy
-
-Acesse o projeto online:
-
-🔗 [Clique aqui para visualizar](https://seu-link-do-projeto.com)
 
 ---
 
@@ -109,19 +99,6 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 - Organização de arquivos
 - Uso de fontes personalizadas
 - Interatividade com áudio
-
----
-
-## Melhorias futuras
-
-- [ ] Adicionar histórico de cálculos
-- [ ] Criar tema dark/light
-- [ ] Adicionar suporte total ao teclado
-- [ ] Melhorar animações da interface
-- [ ] Criar versão mobile aprimorada
-- [ ] Publicar com GitHub Pages
-
----
 
 <p align="center">
   ⭐ Projeto Calculadora - Trilha Saipos
