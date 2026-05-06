@@ -1,8 +1,128 @@
-# Calculadora JavaScript
+<h1 align="center"> Calculadora JavaScript</h1>
 
-[![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
+<p align="center">
+  <strong>Uma calculadora moderna desenvolvida com HTML, CSS e JavaScript.</strong>
+</p>
 
-Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
+<p align="center">
+  Projeto criado para praticar lógica de programação, manipulação do DOM, eventos e boas práticas com JavaScript.
+</p>
 
-### Projeto
-![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="Status do projeto">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-orange" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-blue" alt="CSS3">
+</p>
+
+---
+
+## Demonstração
+
+<p align="center">
+  <img src="assets/calcteste.gif" alt="Demonstração da Calculadora" width="600">
+</p>
+
+---
+
+## Sobre o projeto
+
+A **Calculadora JavaScript** é uma aplicação web simples e funcional, desenvolvida com foco em praticar os principais conceitos do JavaScript no navegador.
+
+O projeto permite realizar operações matemáticas básicas através de uma interface intuitiva, responsiva e agradável.
+
+---
+
+## Funcionalidades
+
+- ✅ Soma, subtração, multiplicação e divisão
+- ✅ Limpar o visor
+- ✅ Apagar último caractere
+- ✅ Exibição de mensagens de erro
+- ✅ Interação por clique
+- ✅ Suporte a áudio de clique
+- ✅ Interface simples e responsiva
+
+---
+
+## Tecnologias utilizadas
+
+<div align="center">
+
+| Tecnologia | Descrição |
+|---|---|
+| HTML5 | Estrutura da aplicação |
+| CSS3 | Estilização e layout |
+| JavaScript | Lógica e interatividade |
+| DOM | Manipulação dos elementos da tela |
+
+</div>
+
+---
+
+## 📂 Estrutura do projeto
+
+```bash
+📦 calculadora-javascript
+ ┣ 📂 assets
+ ┃ ┗ 📜 demo.gif
+ ┣ 📂 scripts
+ ┃ ┗ 📜 script.js
+ ┣ 📜 index.html
+ ┣ 📜 README.md
+ ┣ 📜 click.mp3
+ ┗ 📜 digital-7.ttf
+```
+
+---
+
+## Como executar
+
+```bash
+# Clone o repositório
+git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+
+# Acesse a pasta do projeto
+cd SEU-REPOSITORIO
+```
+
+Depois, abra o arquivo `index.html` no navegador.
+
+---
+
+## Deploy
+
+Acesse o projeto online:
+
+🔗 [Clique aqui para visualizar](https://seu-link-do-projeto.com)
+
+---
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, foram praticados conceitos como:
+
+- Manipulação do DOM
+- Eventos de clique
+- Funções em JavaScript
+- Tratamento de erros
+- Organização de arquivos
+- Uso de fontes personalizadas
+- Interatividade com áudio
+
+---
+
+## Melhorias futuras
+
+- [ ] Adicionar histórico de cálculos
+- [ ] Criar tema dark/light
+- [ ] Adicionar suporte total ao teclado
+- [ ] Melhorar animações da interface
+- [ ] Criar versão mobile aprimorada
+- [ ] Publicar com GitHub Pages
+
+---
+
+<p align="center">
+  ⭐ Projeto Calculadora - Trilha Saipos
+</p>
